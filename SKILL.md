@@ -1,9 +1,9 @@
 ---
-name: 5-steps-create-skill
+name: AutoEvoSkillCreate
 description: OpenClaw-compatible skill for creating or upgrading skills with a five-step method: add good/bad examples as context, write natural-language triggers, add pass/fail evals, add memory for real feedback, and use a skill-doctor loop to remove stale, vague, duplicate, or AI-like instructions. Use when the user asks to create a new skill, improve an existing skill, turn a repeated workflow into a skill, or standardize a team's skill-building process.
 ---
 
-# 5 Steps Create Skill
+# AutoEvoSkillCreate
 
 Use this skill to create new skills or upgrade existing skills into reusable, maintainable capabilities.
 

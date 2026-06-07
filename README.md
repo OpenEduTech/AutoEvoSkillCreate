@@ -32,7 +32,7 @@ references/
 ### Recommended Prompt
 
 ```text
-Use 5-steps-create-skill to turn this repeated workflow into an OpenClaw skill.
+Use AutoEvoSkillCreate to turn this repeated workflow into an OpenClaw skill.
 
 Workflow or source material:
 <paste content or provide path>
@@ -87,7 +87,7 @@ references/
 ### 推荐提示词
 
 ```text
-使用 5-steps-create-skill，把下面这个重复工作流整理成一个 skill。
+使用 AutoEvoSkillCreate，把下面这个重复工作流整理成一个 skill。
 
 工作流或来源材料：
 <粘贴内容或提供路径>

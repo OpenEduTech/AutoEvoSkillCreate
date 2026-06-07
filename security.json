@@ -1,5 +1,5 @@
 {
-  "name": "5-steps-create-skill",
+  "name": "AutoEvoSkillCreate",
   "permissions": {
     "filesystem": {
       "read": [

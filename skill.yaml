@@ -1,6 +1,6 @@
-name: 5-steps-create-skill
+name: AutoEvoSkillCreate
 version: 1.0.0
-title: 5 Steps Create Skill
+title: AutoEvoSkillCreate
 description: OpenClaw-compatible five-step method for creating and improving reusable skills.
 entrypoint: SKILL.md
 openclaw:

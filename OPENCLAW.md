@@ -2,7 +2,7 @@
 
 ## Skill
 
-`5-steps-create-skill`
+`AutoEvoSkillCreate`
 
 ## Purpose
 
@@ -18,12 +18,12 @@ Copy this whole folder into OpenClaw's skills directory.
 
 ## 中文安装说明
 
-将整个 `5-steps-create-skill` 文件夹复制到 OpenClaw 的 skills 目录中。
+将整个 `AutoEvoSkillCreate` 文件夹复制到 OpenClaw 的 skills 目录中。
 
 ## Recommended Prompt
 
 ```text
-Use 5-steps-create-skill to turn this repeated workflow into an OpenClaw skill.
+Use AutoEvoSkillCreate to turn this repeated workflow into an OpenClaw skill.
 
 Workflow or source material:
 <paste content or provide path>
@@ -38,7 +38,7 @@ OpenClaw skill / Codex skill / both
 ## 中文推荐提示词
 
 ```text
-使用 5-steps-create-skill，把下面这个重复工作流整理成一个 skill。
+使用 AutoEvoSkillCreate，把下面这个重复工作流整理成一个 skill。
 
 工作流或来源材料：
 <粘贴内容或提供路径>
