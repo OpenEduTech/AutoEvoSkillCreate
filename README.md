@@ -1,7 +1,5 @@
 # AutoEvoSkillCreate
 
-## English
-
 AutoEvoSkillCreate is an OpenClaw-compatible skill for creating and upgrading reusable skills with a practical five-step method. It turns repeated workflows, prompts, SOPs, article methods, or existing agent routines into maintainable skill packages.
 
 ### Inspiration
@@ -54,8 +52,6 @@ The skill helps generate or improve a skill package with:
 - a memory policy based only on real feedback;
 - minimal permissions and security notes;
 - a final validation summary.
-
-## 中文
 
 AutoEvoSkillCreate 是一个兼容 OpenClaw 的 skill，用于通过实用的“五步法”创建和升级可复用 skill。它可以把重复工作流、Prompt、SOP、文章方法论或已有 agent 流程整理成可维护的 skill 包。
 
